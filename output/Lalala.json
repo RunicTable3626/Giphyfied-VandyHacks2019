@@ -1,0 +1,521 @@
+{
+    "fragments": [
+        {
+            "begin": "0.000",
+            "children": [],
+            "end": "3.400",
+            "id": "f000001",
+            "language": "eng",
+            "lines": [
+                "Did I really just forget that melody?"
+            ],
+            "key_word": "melody"
+        },
+        {
+            "begin": "3.400",
+            "children": [],
+            "end": "6.760",
+            "id": "f000002",
+            "language": "eng",
+            "lines": [
+                "Naw, na, na, banananananana"
+            ],
+            "key_word": "banana"
+        },
+        {
+            "begin": "6.760",
+            "children": [],
+            "end": "10.960",
+            "id": "f000003",
+            "language": "eng",
+            "lines": [
+                "Alright, dada dadadada"
+            ],
+            "key_word": "dada dadadada"
+        },
+        {
+            "begin": "10.960",
+            "children": [],
+            "end": "17.280",
+            "id": "f000004",
+            "language": "eng",
+            "lines": [
+                "When I popped off, then your girl gave me just a little bit of lockjaw"
+            ],
+            "key_word": "girl"
+        },
+        {
+            "begin": "17.280",
+            "children": [],
+            "end": "23.400",
+            "id": "f000005",
+            "language": "eng",
+            "lines": [
+                "Baby so cold, he from the north, he from the Canada"
+            ],
+            "key_word": "Baby"
+        },
+        {
+            "begin": "23.400",
+            "children": [],
+            "end": "29.160",
+            "id": "f000006",
+            "language": "eng",
+            "lines": [
+                "Bankroll so low, I got nothing else that I can withdraw"
+            ],
+            "key_word": "nothing"
+        },
+        {
+            "begin": "29.160",
+            "children": [],
+            "end": "30.840",
+            "id": "f000007",
+            "language": "eng",
+            "lines": [
+                "Ran out the door"
+            ],
+            "key_word": "door"
+        },
+        {
+            "begin": "30.840",
+            "children": [],
+            "end": "35.640",
+            "id": "f000008",
+            "language": "eng",
+            "lines": [
+                "I shine my wrist, it go like shashasha, shashasha"
+            ],
+            "key_word": "wrist"
+        },
+        {
+            "begin": "35.640",
+            "children": [],
+            "end": "39.880",
+            "id": "f000009",
+            "language": "eng",
+            "lines": [
+                "I got your bitch singing like lalala, lalala"
+            ],
+            "key_word": "lalala"
+        },
+        {
+            "begin": "39.880",
+            "children": [],
+            "end": "48.960",
+            "id": "f000010",
+            "language": "eng",
+            "lines": [
+                "I shine my wrist, it go like shashasha, shashasha"
+            ],
+            "key_word": "wrist"
+        },
+        {
+            "begin": "48.960",
+            "children": [],
+            "end": "56.400",
+            "id": "f000011",
+            "language": "eng",
+            "lines": [
+                "I got your bitch singing like lalala, lalala"
+            ],
+            "key_word": "lalala"
+        },
+        {
+            "begin": "56.400",
+            "children": [],
+            "end": "60.200",
+            "id": "f000012",
+            "language": "eng",
+            "lines": [
+                "How I stride like that"
+            ],
+            "key_word": "lalala"
+        },
+        {
+            "begin": "60.200",
+            "children": [],
+            "end": "64.560",
+            "id": "f000013",
+            "language": "eng",
+            "lines": [
+                "Amex, no cap, eight hundred score"
+            ],
+            "key_word": "Amex"
+        },
+        {
+            "begin": "64.560",
+            "children": [],
+            "end": "67.640",
+            "id": "f000014",
+            "language": "eng",
+            "lines": [
+                "They wonder how, how I guap like that"
+            ],
+            "key_word": "Amex"
+        },
+        {
+            "begin": "67.640",
+            "children": [],
+            "end": "71.360",
+            "id": "f000015",
+            "language": "eng",
+            "lines": [
+                "I rap my lyrics when I perform"
+            ],
+            "key_word": "lyrics"
+        },
+        {
+            "begin": "71.360",
+            "children": [],
+            "end": "75.240",
+            "id": "f000016",
+            "language": "eng",
+            "lines": [
+                "They wonder how, how I stride like that"
+            ],
+            "key_word": "lyrics"
+        },
+        {
+            "begin": "75.240",
+            "children": [],
+            "end": "78.480",
+            "id": "f000017",
+            "language": "eng",
+            "lines": [
+                "Married to the grind, I brought my ring"
+            ],
+            "key_word": "grind"
+        },
+        {
+            "begin": "78.480",
+            "children": [],
+            "end": "80.960",
+            "id": "f000018",
+            "language": "eng",
+            "lines": [
+                "I'm corny, but your girly want the dick"
+            ],
+            "key_word": "girly"
+        },
+        {
+            "begin": "80.960",
+            "children": [],
+            "end": "86.840",
+            "id": "f000019",
+            "language": "eng",
+            "lines": [
+                "Modest with my jewels, but check the bank"
+            ],
+            "key_word": "jewels"
+        },
+        {
+            "begin": "86.840",
+            "children": [],
+            "end": "90.640",
+            "id": "f000020",
+            "language": "eng",
+            "lines": [
+                "Finally got the money, say my thanks"
+            ],
+            "key_word": "thanks"
+        },
+        {
+            "begin": "90.640",
+            "children": [],
+            "end": "98.000",
+            "id": "f000021",
+            "language": "eng",
+            "lines": [
+                "When I popped off, then your girl gave me just a little bit of lockjaw"
+            ],
+            "key_word": "girl"
+        },
+        {
+            "begin": "98.000",
+            "children": [],
+            "end": "106.120",
+            "id": "f000022",
+            "language": "eng",
+            "lines": [
+                "Baby so cold, he from the north, he from the Canada"
+            ],
+            "key_word": "Baby"
+        },
+        {
+            "begin": "106.120",
+            "children": [],
+            "end": "112.760",
+            "id": "f000023",
+            "language": "eng",
+            "lines": [
+                "Bankroll so low, I got nothing else that I can withdraw"
+            ],
+            "key_word": "nothing"
+        },
+        {
+            "begin": "112.760",
+            "children": [],
+            "end": "114.200",
+            "id": "f000024",
+            "language": "eng",
+            "lines": [
+                "Ran out the door"
+            ],
+            "key_word": "door"
+        },
+        {
+            "begin": "114.200",
+            "children": [],
+            "end": "119.240",
+            "id": "f000025",
+            "language": "eng",
+            "lines": [
+                "I shine my wrist, it go like shashasha, shashasha"
+            ],
+            "key_word": "wrist"
+        },
+        {
+            "begin": "119.240",
+            "children": [],
+            "end": "122.120",
+            "id": "f000026",
+            "language": "eng",
+            "lines": [
+                "I got your bitch singing like lalala, lalala"
+            ],
+            "key_word": "lalala"
+        },
+        {
+            "begin": "122.120",
+            "children": [],
+            "end": "128.040",
+            "id": "f000027",
+            "language": "eng",
+            "lines": [
+                "I shine my wrist, it go like shashasha, shashasha"
+            ],
+            "key_word": "wrist"
+        },
+        {
+            "begin": "128.040",
+            "children": [],
+            "end": "132.680",
+            "id": "f000028",
+            "language": "eng",
+            "lines": [
+                "I got your bitch singing like lalala, lalala"
+            ],
+            "key_word": "lalala"
+        },
+        {
+            "begin": "132.680",
+            "children": [],
+            "end": "134.760",
+            "id": "f000029",
+            "language": "eng",
+            "lines": [
+                "How I stride like that"
+            ],
+            "key_word": "lalala"
+        },
+        {
+            "begin": "134.760",
+            "children": [],
+            "end": "137.680",
+            "id": "f000030",
+            "language": "eng",
+            "lines": [
+                "Haha, I'm at the bank again"
+            ],
+            "key_word": "bank"
+        },
+        {
+            "begin": "137.680",
+            "children": [],
+            "end": "140.920",
+            "id": "f000031",
+            "language": "eng",
+            "lines": [
+                "They wonder how, how I guap like that"
+            ],
+            "key_word": "bank"
+        },
+        {
+            "begin": "140.920",
+            "children": [],
+            "end": "145.800",
+            "id": "f000032",
+            "language": "eng",
+            "lines": [
+                "Pink whip with flames all on the side"
+            ],
+            "key_word": "Pink whip"
+        },
+        {
+            "begin": "145.800",
+            "children": [],
+            "end": "150.200",
+            "id": "f000033",
+            "language": "eng",
+            "lines": [
+                "They wonder how, how I stride like that"
+            ],
+            "key_word": "Pink whip"
+        },
+        {
+            "begin": "150.200",
+            "children": [],
+            "end": "157.600",
+            "id": "f000034",
+            "language": "eng",
+            "lines": [
+                "Got that Gucci on my body, now she tryna pipe me, woo"
+            ],
+            "key_word": "body"
+        },
+        {
+            "begin": "157.600",
+            "children": [],
+            "end": "165.320",
+            "id": "f000035",
+            "language": "eng",
+            "lines": [
+                "Popped a Lucy Loosey Goosey, sussy boy, I keep you cool"
+            ],
+            "key_word": "boy"
+        },
+        {
+            "begin": "165.320",
+            "children": [],
+            "end": "165.320",
+            "id": "f000036",
+            "language": "eng",
+            "lines": [
+                "Got the paper, went to school"
+            ],
+            "key_word": "school"
+        },
+        {
+            "begin": "165.320",
+            "children": [],
+            "end": "165.320",
+            "id": "f000037",
+            "language": "eng",
+            "lines": [
+                "Be careful who you callin' a fool"
+            ],
+            "key_word": "fool"
+        },
+        {
+            "begin": "165.320",
+            "children": [],
+            "end": "165.320",
+            "id": "f000038",
+            "language": "eng",
+            "lines": [
+                "Ayy, ha, ayy"
+            ],
+            "key_word": "Ayy"
+        },
+        {
+            "begin": "165.320",
+            "children": [],
+            "end": "165.320",
+            "id": "f000039",
+            "language": "eng",
+            "lines": [
+                "When I popped off, then your girl gave me just a little bit of lockjaw"
+            ],
+            "key_word": "girl"
+        },
+        {
+            "begin": "165.320",
+            "children": [],
+            "end": "165.320",
+            "id": "f000040",
+            "language": "eng",
+            "lines": [
+                "Baby so cold, he from the north, he from the Canada"
+            ],
+            "key_word": "Baby"
+        },
+        {
+            "begin": "165.320",
+            "children": [],
+            "end": "165.320",
+            "id": "f000041",
+            "language": "eng",
+            "lines": [
+                "Bankroll so low, I got nothing else that I can withdraw"
+            ],
+            "key_word": "nothing"
+        },
+        {
+            "begin": "165.320",
+            "children": [],
+            "end": "165.320",
+            "id": "f000042",
+            "language": "eng",
+            "lines": [
+                "Ran out the door"
+            ],
+            "key_word": "door"
+        },
+        {
+            "begin": "165.320",
+            "children": [],
+            "end": "165.320",
+            "id": "f000043",
+            "language": "eng",
+            "lines": [
+                "I shine my wrist, it go like shashasha, shashasha"
+            ],
+            "key_word": "wrist"
+        },
+        {
+            "begin": "165.320",
+            "children": [],
+            "end": "165.320",
+            "id": "f000044",
+            "language": "eng",
+            "lines": [
+                "I got your bitch singing like lalala, lalala"
+            ],
+            "key_word": "lalala"
+        },
+        {
+            "begin": "165.320",
+            "children": [],
+            "end": "165.320",
+            "id": "f000045",
+            "language": "eng",
+            "lines": [
+                "I shine my wrist, it go like shashasha, shashasha"
+            ],
+            "key_word": "wrist"
+        },
+        {
+            "begin": "165.320",
+            "children": [],
+            "end": "165.320",
+            "id": "f000046",
+            "language": "eng",
+            "lines": [
+                "I got your bitch singing like lalala, lalala"
+            ],
+            "key_word": "lalala"
+        },
+        {
+            "begin": "165.320",
+            "children": [],
+            "end": "165.360",
+            "id": "f000047",
+            "language": "eng",
+            "lines": [
+                "How I stride like that"
+            ],
+            "key_word": "lalala"
+        }
+    ]
+}
